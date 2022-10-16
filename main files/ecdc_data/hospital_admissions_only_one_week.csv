@@ -1,0 +1,15 @@
+country,indicator,date,year_week,value,source,url
+Cyprus,Weekly new hospital admissions per 100k,,2020-W05,0.114168414,"TESSy COVID-19, national daily data",
+Czechia,Weekly new hospital admissions per 100k,,2020-W05,0,"TESSy COVID-19, national weekly data",
+Czechia,Weekly new ICU admissions per 100k,,2020-W05,0,"TESSy COVID-19, national weekly data",
+France,Daily hospital occupancy,02-02-2020,2020-W05,6,External_Github,https://github.com/opencovid19-fr/data
+France,Daily ICU occupancy,02-02-2020,2020-W05,1,External_Github,https://github.com/opencovid19-fr/data
+Germany,Weekly new hospital admissions per 100k,,2020-W05,0.049386158,"TESSy COVID-19, national daily data",
+Greece,Weekly new ICU admissions per 100k,,2020-W05,0,"TESSy COVID-19, national weekly data",
+Latvia,Weekly new hospital admissions per 100k,,2020-W05,0,"TESSy COVID-19, national weekly data",
+Latvia,Weekly new ICU admissions per 100k,,2020-W05,0,"TESSy COVID-19, national weekly data",
+Netherlands,Weekly new hospital admissions per 100k,,2020-W05,0.017358938,"TESSy COVID-19, national daily data",
+Portugal,Weekly new hospital admissions per 100k,,2020-W05,0.087577459,"TESSy COVID-19, national daily data",
+Slovenia,Weekly new hospital admissions per 100k,,2020-W05,0,"TESSy COVID-19, national weekly data",
+Spain,Weekly new hospital admissions per 100k,,2020-W05,0.025566152,"TESSy COVID-19, national weekly data",
+Spain,Weekly new ICU admissions per 100k,,2020-W05,0.002130513,"TESSy COVID-19, national weekly data",
